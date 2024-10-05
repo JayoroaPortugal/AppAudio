@@ -15,7 +15,7 @@ public class Audio {
     }
 
 
-    //geeters and seters
+    //geeters and setters
 
 
     public String getTitulo() {
